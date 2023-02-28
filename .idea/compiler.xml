@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="PurseProject" />
         <module name="purse" />
+        <module name="CodeSecretProject" />
       </profile>
     </annotationProcessing>
   </component>
